@@ -2,7 +2,9 @@
 
 سیستم رنک دهی کلمات بر اساس TF-IDF و استفاده از Generative Mixture Model، ساخت دیکشنری از ترم های موجود جهت تسریع عملکرد
 
-دیتاست مورد استفاده: کالکشن داکیومنت های روزنامه همشهری؛ لینک دانلود دیتاست: https://biaupload.com/do.php?filename=org-32db19850df61.zip
+دیتاست مورد استفاده: کالکشن داکیومنت های روزنامه همشهری؛
+
+لینک دانلود دیتاست: https://biaupload.com/do.php?filename=org-32db19850df61.zip
 
 Generative Mixture Model:
 
