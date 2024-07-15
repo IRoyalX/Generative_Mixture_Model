@@ -4,7 +4,7 @@
 
 دیتاست مورد استفاده: کالکشن داکیومنت های روزنامه همشهری؛
 
-لینک دانلود دیتاست: https://biaupload.com/do.php?filename=org-32db19850df61.zip
+لینک دانلود کالکشن: https://biaupload.com/do.php?filename=org-32db19850df61.zip
 
 Generative Mixture Model:
 
